@@ -44,7 +44,7 @@ Crypto-Market-Analysis/
 │   └── Cryptocurrency_Market_Analysis.ipynb
 │
 ├── images/
-        dashboard.png
+│   ├── dashboard.png
 │   ├── top_market_cap.png
 │   ├── top_10_trading_volume.png
 │   ├── top_10_gainers.png
