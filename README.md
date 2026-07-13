@@ -44,6 +44,7 @@ Crypto-Market-Analysis/
 │   └── Cryptocurrency_Market_Analysis.ipynb
 │
 ├── images/
+        dashboard.png
 │   ├── top_market_cap.png
 │   ├── top_10_trading_volume.png
 │   ├── top_10_gainers.png
@@ -88,6 +89,16 @@ Data Visualization
         ▼
 Business Insights
 ```
+
+# 📊 Dashboard Preview
+<img width="727" height="588" alt="image" src="https://github.com/user-attachments/assets/44b161f8-0526-436d-af10-188a3e7ca755" />
+
+---
+
+# 🔗 Interactive Dashboard
+
+**View the live Google Looker Studio Dashboard:**
+https://datastudio.google.com/reporting/0c979b24-54cb-4a63-9394-5fa436a35f1a
 
 ---
 
@@ -151,19 +162,6 @@ The project includes the following visualizations:
 - Correlation Heatmap
 - Market Cap vs Trading Volume
 - Days Since ATH Distribution
-
-
-### Top 10 Market Cap
-
-![Top Market Cap](images/top_market_cap.png)
-
-### Trading Volume
-
-![Trading Volume](images/top_10_trading_volume.png)
-
-### Correlation Heatmap
-
-![Heatmap](images/correlation_heatmap.png)
 
 ---
 
