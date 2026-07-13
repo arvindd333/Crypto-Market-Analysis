@@ -154,7 +154,8 @@ The project includes the following visualizations:
 
 
 ### Top 10 Market Cap
-<img width="2970" height="1766" alt="top_market_cap" src="https://github.com/user-attachments/assets/91effe96-ebe8-4275-bcf1-21b8b8b53408" />
+
+![Top Market Cap](images/top_market_cap.png)
 
 ### Trading Volume
 
