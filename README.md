@@ -152,6 +152,18 @@ The project includes the following visualizations:
 - Market Cap vs Trading Volume
 - Days Since ATH Distribution
 
+
+### Top 10 Market Cap
+<img width="2970" height="1766" alt="top_market_cap" src="https://github.com/user-attachments/assets/91effe96-ebe8-4275-bcf1-21b8b8b53408" />
+
+### Trading Volume
+
+![Trading Volume](images/top_10_trading_volume.png)
+
+### Correlation Heatmap
+
+![Heatmap](images/correlation_heatmap.png)
+
 ---
 
 ## 💡 Business Insights
